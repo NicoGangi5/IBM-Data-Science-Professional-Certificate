@@ -18,4 +18,6 @@ Describe the data that you will be using to solve the problem or execute your id
 
 This submission will eventually become your **Data** section in your final report. So I recommend that you push the report (having your Data section) to your Github repository and submit a link to it.
 
-**Link to my Notebook:** 
+[Link to report](https://github.com/NicoGangi5/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied_Data_Science_Capstone/Week%204%20-%20The%20Battle%20of%20Neighborhoods/Report.ipynb)
+
+[Link to my Notebook](https://github.com/NicoGangi5/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied_Data_Science_Capstone/Week%204%20-%20The%20Battle%20of%20Neighborhoods/Tale_of_Two_Cities.ipynb)
