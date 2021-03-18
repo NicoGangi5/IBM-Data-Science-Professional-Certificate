@@ -32,6 +32,8 @@ In this week, you will continue working on your capstone project. Please remembe
 
 ## My Work
 
-1. **Report:** 
-2. **Notebook:** 
-3. **Blog Post:** 
+[Link to report](https://github.com/NicoGangi5/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied_Data_Science_Capstone/Week%205%20-%20The%20Battle%20of%20Neighborhoods%20(Cont'd)/Report.ipynb)
+
+[Link to Notebook](https://github.com/NicoGangi5/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied_Data_Science_Capstone/Week%205%20-%20The%20Battle%20of%20Neighborhoods%20(Cont'd)/Tale_of_Two_Cities.ipynb)
+
+[Link to Blog post](https://github.com/NicoGangi5/IBM-Data-Science-Professional-Certificate/blob/main/10.%20Applied_Data_Science_Capstone/Week%205%20-%20The%20Battle%20of%20Neighborhoods%20(Cont'd)/Blog%20Post.pdf)
